@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsepdate",
+        "uuid": 2551689,
+        "checksum": "f2sykb"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
